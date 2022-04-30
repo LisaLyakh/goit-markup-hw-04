@@ -225,6 +225,7 @@ img {
 }
 .button-options:hover, .button-options:focus {
   background-color: var(--theme-button);
+  color: var(--theme-accent);
 }
 .class {
   display: none;
