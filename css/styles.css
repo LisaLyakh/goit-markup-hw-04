@@ -492,6 +492,10 @@ img {
   display: flex;
   justify-content: center;
 }
+.footer-social {
+  margin-left: 70px;
+  padding-top: 10px;
+}
 .footer-social-link-item {
   list-style: none;
   margin-right: 10px ;
